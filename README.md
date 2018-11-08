@@ -6,7 +6,11 @@ Rudimentary [kanban board](https://en.wikipedia.org/wiki/Kanban_board) built usi
 
 ![render mode](render.png)
 
-## Project setup
+## Progress
+
+[Current Tasks](src/tasks)
+
+### Project setup
 ```
 npm install
 ```
